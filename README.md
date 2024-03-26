@@ -17,7 +17,7 @@ MarketMoone Store is an e-commerce project designed for convenient shopping expe
 
 ## Setup
 
-Before running the project, make sure to configure your AWS settings for cloud storage. Also, ensure that necessary environment variables are properly set up, including those related to AWS, RabbitMQ, Redis, and ZarinPal.
+Before running the project, make sure to configure your AWS settings for cloud storage. Also, ensure that necessary environment variables are properly set up, including those related to AWS, RabbitMQ, Redis, Postgresql and ZarinPal.
 
 ## Installation
 
