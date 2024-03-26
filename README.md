@@ -1,4 +1,4 @@
-# MarketMoone Store
+# MarketMon Online-Store
 
 MarketMoone Store is an e-commerce project designed for convenient shopping experiences. Users can log in using their phone numbers and receive verification codes for authentication. The project incorporates various technologies such as Celery, RabbitMQ, Redis, PostgreSQL, Amazon S3 bucket, ZarinPal payment gateway, permissions, boto3, CKEditor, and caching.
 
